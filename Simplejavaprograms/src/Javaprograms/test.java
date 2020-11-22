@@ -19,7 +19,7 @@ public class test {
 			
 			try {
 				nt.demo(8);
-				System.out.println("inside test java class tttttt test");
+				System.out.println("inside test java class tttttsdfdsdft test");
 			} catch (IOException e) {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
